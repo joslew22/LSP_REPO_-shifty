@@ -1,4 +1,5 @@
 package org.howard.edu.lsp.midterm.question3;
+// import ideas for data structure as well as JavaDoc generated from DeepSeek
 
 import java.util.HashMap;
 import java.util.Map;

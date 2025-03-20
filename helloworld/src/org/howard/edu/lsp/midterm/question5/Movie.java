@@ -1,4 +1,6 @@
 package org.howard.edu.lsp.midterm.question5;
+
+//JavaDoc Generated from DeepSeek
 /**
  * Represents a movie that can be streamed.
  */

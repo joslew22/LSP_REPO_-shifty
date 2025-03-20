@@ -1,5 +1,7 @@
 package org.howard.edu.lsp.midterm.question5;
 
+//JavaDoc Generated from DeepSeek
+
 /**
  * Represents an audiobook that can be streamed.
  */

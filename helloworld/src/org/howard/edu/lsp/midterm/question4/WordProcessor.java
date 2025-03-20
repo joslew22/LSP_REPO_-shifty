@@ -1,4 +1,5 @@
 package org.howard.edu.lsp.midterm.question4;
+// JavaDoc generated from DeepSeek
 
 import java.util.ArrayList;
 import java.util.List;

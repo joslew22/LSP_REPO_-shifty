@@ -1,5 +1,6 @@
 package org.howard.edu.lsp.midterm.question2;
 
+//JavaDoc generated from DeepSeek
 public class Book {
     // Private attributes
     private String title;

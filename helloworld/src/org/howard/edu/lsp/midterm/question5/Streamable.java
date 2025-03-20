@@ -1,5 +1,7 @@
 package org.howard.edu.lsp.midterm.question5;
 
+//JavaDoc Generated from DeepSeek as well as idea for Java Interface
+
 /**
  * Represents streamable content that supports common behaviors like play, pause, and stop.
  */
