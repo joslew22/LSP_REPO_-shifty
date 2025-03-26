@@ -23,6 +23,7 @@ public class ETLPipeline {
         try (BufferedReader br = new BufferedReader(new FileReader(filename))) {
         	//BufferedReader code and idea obtained from ChatGPT (chatgpt.com)
             String line;
+            br.readLine();
             while ((line = br.readLine()) != null) {
                 data.add(line.split(","));
             }
