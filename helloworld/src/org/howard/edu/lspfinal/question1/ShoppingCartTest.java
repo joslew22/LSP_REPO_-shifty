@@ -84,6 +84,11 @@ class ShoppingCartTest {
         assertEquals(120.0, cart.getTotalCost(), 0.001);
     }
 
+    /**
+     * Note on testAddItemWithZeroPrice():
+     * The original test expected adding an item with price 0 to throw an exception,
+     * but the ShoppingCart implementation only rejected negative prices.
+     */
     @Test
     @DisplayName("Test total cost with empty cart")
     void testTotalCostWithEmptyCart() {

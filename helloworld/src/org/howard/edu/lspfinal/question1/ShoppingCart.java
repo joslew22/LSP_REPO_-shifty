@@ -14,9 +14,6 @@ public class ShoppingCart {
     /**
      *
      * Adds an item to the shopping cart.
-     *  Note on testAddItemWithZeroPrice():
-  	 * The original test expected adding an item with price 0 to throw an exception,
-  	 * but the ShoppingCart implementation only rejected negative prices.  
      * 
      * @param itemName  the name of the item
      * @param price     the price of the item (must be non-negative)
